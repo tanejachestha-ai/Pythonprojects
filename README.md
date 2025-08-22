@@ -4,7 +4,7 @@ This project is a **Coffee Sales Analysis Dashboard** built using **Power BI**. 
 - ✅ **Total sales** 
 - ✅ **Number of items sold**
 - ✅ **Sales by coffee type**
-- ✅ **Orders by time range*
+- ✅ **Orders by time range**
 - ✅ **Coffee category distribution**
 ---
   
