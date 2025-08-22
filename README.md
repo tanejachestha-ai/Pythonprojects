@@ -9,7 +9,7 @@ This project is a **Coffee Sales Analysis Dashboard** built using **Power BI**. 
 ---
   
 ## 🖼 Dashboard Preview 
-_Add your dashboard screenshot here (drag and drop the image in GitHub README or use an image link)._ 
+
 --- 
 ## 📂 Files in this Repository 
 - **coffee.pbit** → Power BI Template file
